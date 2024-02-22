@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="000e17ab-0aca-4cb4-b9b6-f2827be67a2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/kotlin/com/aguadaserra/app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-hdpi/ic_launcher_adaptive_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-hdpi/ic_launcher_adaptive_fore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-mdpi/ic_launcher_adaptive_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-mdpi/ic_launcher_adaptive_fore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-xhdpi/ic_launcher_adaptive_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-xhdpi/ic_launcher_adaptive_fore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_adaptive_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_adaptive_fore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/fonts/Inter-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/admin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/banner1_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/banner2_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/banner3_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/banner4_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/credit_card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/intro1_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/intro2_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/intro3_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/main_logo_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/main_logo_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/map_image256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/no_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/person.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/qr_code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/images/ticket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/GoogleService-Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/ios/Runner/Runner.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/config/application_messages.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/config/masks.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/config/notification_helper.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/config/preferences.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/config/useful.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/config/validator.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/global/application_constant.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/cart.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/favorite.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/freight.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/global_ws_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/order.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/payment.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/photo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/product.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/subcategory.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/model/user.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/res/dimens.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/res/owner_colors.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/res/strings.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/res/styles.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/alert_dialog_add_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/alert_dialog_address_form.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/alert_dialog_change_quantity_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/alert_dialog_credit_card_form.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/alert_dialog_date_picker.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/alert_dialog_generic.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/alert_dialog_pick_images.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/alert_dialog_sucess.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/custom_app_bar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/dot_indicator.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/components/progress_hud.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/auth/login.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/auth/recover_password.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/auth/register.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/intro/onboarding.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/intro/splash.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/cart_shopping.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/checkout_flow/checkout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/checkout_flow/method_payment.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/checkout_flow/sucess.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/favorites.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/filter/filter_products.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/filter/filter_products_results.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/main_menu.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/menu/address/user_addresses.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/menu/categories/categories.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/menu/categories/products.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/menu/categories/subcategories.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/menu/payments/payments.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/menu/user/profile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/notifications/notifications.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/order/order_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/orders.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/main/product/product_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/ui/navigation/utilities/pdf_viewer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/web_service/links.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/lib/web_service/service_response.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aguadaserra_new_oficial/vectors/heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2cewcOktzwaGHffvoxLaAhZHnaa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "io.flutter.reload.alreadyRun": "true",
+    "last_opened_file_path": "C:/Users/joaoc/Documents/icontrol_oficial/icontrol_oficial",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="000e17ab-0aca-4cb4-b9b6-f2827be67a2a" name="Changes" comment="" />
+      <created>1708485430728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708485430728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+
+a fazer:
+
+pop setstate task_detail -> home
+
+
+- crud equipamentos, falta validations
+- diferenciar por tipo na listagem (aprimorar download file e view file)
+
+
+
+
+
+OBS:
+
+APP MÓVEL (Android)
+
+App apresentando falhas para mudança de posicionamento dos equipamentos no dashboard ok
+Campos de datas e status não estão sincronizados ?? (como assim, update ta bombando)
+Falha na exclusão de algum equipamento no dashboard ( atualizar )
+Falha na edição de tarefas de manutenção nos equipamentos. ??

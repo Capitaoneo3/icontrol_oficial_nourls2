@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553416743862",
+    "project_id": "icontrol-762a5",
+    "storage_bucket": "icontrol-762a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553416743862:android:e2c4c9806f33070e7fbf17",
+        "android_client_info": {
+          "package_name": "com.icontrol.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553416743862-73hbb0u2jeajv5bd2h5smd0bgc771ma8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiYYATfTOY05l0reqLpiG3d6fx_J6CeNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553416743862-73hbb0u2jeajv5bd2h5smd0bgc771ma8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
